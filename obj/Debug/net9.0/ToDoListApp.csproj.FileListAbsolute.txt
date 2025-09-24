@@ -1,0 +1,14 @@
+C:\VSCode\PROIECTE VS Code\ToDoListApp\bin\Debug\net9.0\ToDoListApp.exe
+C:\VSCode\PROIECTE VS Code\ToDoListApp\bin\Debug\net9.0\ToDoListApp.deps.json
+C:\VSCode\PROIECTE VS Code\ToDoListApp\bin\Debug\net9.0\ToDoListApp.runtimeconfig.json
+C:\VSCode\PROIECTE VS Code\ToDoListApp\bin\Debug\net9.0\ToDoListApp.dll
+C:\VSCode\PROIECTE VS Code\ToDoListApp\bin\Debug\net9.0\ToDoListApp.pdb
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.AssemblyInfo.cs
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.dll
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\refint\ToDoListApp.dll
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.pdb
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ToDoListApp.genruntimeconfig.cache
+C:\VSCode\PROIECTE VS Code\ToDoListApp\obj\Debug\net9.0\ref\ToDoListApp.dll
